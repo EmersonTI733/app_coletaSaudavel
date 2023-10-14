@@ -1,0 +1,50 @@
+.slogan{
+    text-align: center;
+    font-weight: bold;
+    color:  #17882C;
+    padding-right: 10%;
+}
+
+.header{
+    background-color: #ECEDF1;
+    height: 50px;
+}
+
+.btn_solicitaColeta{
+    background-color: #17882C;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-color:#17882C;
+    border-width: 10px;
+    margin: 25%;
+    font-weight: bold;
+    color:#ECEDF1;
+    font-size: 25px;
+}
+
+.container_body{
+    text-align: center;
+    vertical-align: middle;
+    height: 500px;
+    background-color: #ECEDF1;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 800,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.form-label{
+    font-weight: bold;
+}
+
+.modal-title{
+    font-weight: bold;
+}
+.form-select{
+    width: auto;
+}
